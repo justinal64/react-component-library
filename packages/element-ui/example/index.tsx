@@ -7,8 +7,8 @@ const App = () => {
   return (
     <div>
       <Thing />
-      <Button type="Primary" />
-      <Button type="Secondary" />
+      <Button text="Primary Button" type="Primary" />
+      <Button text="Secondary Button" type="Secondary" />
     </div>
   );
 };
