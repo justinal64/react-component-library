@@ -4,4 +4,4 @@ export const parameters = {
   actions: { argTypesRegex: '^on.*' },
 };
 
-import '!style-loader!css-loader!sass-loader!../styles/_button.scss';
+import '!style-loader!css-loader!sass-loader!../styles/element-ui.scss';
